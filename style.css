@@ -10,3 +10,8 @@ h1 {
 p {
     color: darkblue;
 }
+
+img {
+    max-width: 100%; /* Makes the GIF responsive */
+    height: auto; /* Maintains aspect ratio */
+}
