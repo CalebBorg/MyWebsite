@@ -1,4 +1,11 @@
 body {
-    color: darkblue; /* Change all text to dark blue */
     text-align: center; /* Center text horizontally */
+}
+
+h1 {
+    color: magenta;
+}
+
+p {
+    color: darkblue;
 }
