@@ -26,12 +26,18 @@ img {
     text-align: center; /* Center-align text within its block */
 }
 
+.main-text{
+    width: 60%;
+    text-align: center;
+}
+
 .left {
     text-align: left; /* Align the text to the left */
     float: left;
 }
 .center {
     text-align: center; /* Align the text to the center */
+    margin: 0 auto;
 }
 .right {
     text-align: right; /* Align the text to the right */
