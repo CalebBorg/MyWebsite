@@ -5,6 +5,8 @@ body {
     justify-content: space-between; /* Push content to the sides */
     align-items: flex-start; /* Vertically align the text */
     height: 100vh; /* Full viewport height */
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
