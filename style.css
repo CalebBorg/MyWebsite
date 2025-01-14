@@ -22,12 +22,12 @@ img {
 
 
 .side-text {
-    width: 20%; /* Limit width for each side's text */
+    width: 10%; /* Limit width for each side's text */
     text-align: center; /* Center-align text within its block */
 }
 
 .main-text{
-    width: 60%;
+    width: 80%;
     text-align: center;
 }
 
