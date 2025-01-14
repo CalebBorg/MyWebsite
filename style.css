@@ -28,10 +28,12 @@ img {
 
 .left {
     text-align: left; /* Align the text to the left */
+    float: left;
 }
 .center {
     text-align: center; /* Align the text to the center */
 }
 .right {
     text-align: right; /* Align the text to the right */
+    float: right;
 }
