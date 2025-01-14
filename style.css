@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-    color: darkblue;
+    color: lightseagreen;
 }
 
 img {
@@ -28,7 +28,7 @@ img {
 
 .main-text{
     width: 80%;
-    text-align: center;
+    text-align: flex-start;
 }
 
 .left {
