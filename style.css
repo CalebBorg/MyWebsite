@@ -36,7 +36,7 @@ img {
     float: left;
 }
 .center {
-    text-align: flexwtart; /* Align the text to the center */
+    text-align: flex-start; /* Align the text to the center */
     margin: 0 auto;
 }
 .right {
