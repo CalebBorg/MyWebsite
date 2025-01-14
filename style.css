@@ -3,7 +3,7 @@ body {
     background-color: black;
     display: flex;
     justify-content: space-between; /* Push content to the sides */
-    align-items: center; /* Vertically align the text */
+    align-items: flex-start; /* Vertically align the text */
     height: 100vh; /* Full viewport height */
 }
 
@@ -28,7 +28,7 @@ img {
 
 .main-text{
     width: 80%;
-    text-align: flex-start;
+    text-align: center;
 }
 
 .left {
@@ -36,7 +36,7 @@ img {
     float: left;
 }
 .center {
-    text-align: flex-start; /* Align the text to the center */
+    text-align: center; /* Align the text to the center */
     margin: 0 auto; 
 }
 .right {
