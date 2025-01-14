@@ -23,17 +23,14 @@ img {
 
 .side-text {
     width: 10%; /* Limit width for each side's text */
-    text-align: center; /* Center-align text within its block */
 }
 
 .main-text{
     width: 80%;
-    text-align: center;
 }
 
 .left {
     text-align: left; /* Align the text to the left */
-    float: left;
 }
 .center {
     text-align: center; /* Align the text to the center */
@@ -41,5 +38,4 @@ img {
 }
 .right {
     text-align: right; /* Align the text to the right */
-    float: right;
 }
