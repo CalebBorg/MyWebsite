@@ -30,3 +30,7 @@ img {
 .right {
     text-align: right; /* Align the text to the right */
 }
+
+.center {
+    text-align: center; /* Align the text to the center */
+}
