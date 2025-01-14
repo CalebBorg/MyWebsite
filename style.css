@@ -20,17 +20,18 @@ img {
     height: auto; /* Maintains aspect ratio */
 }
 
+
 .side-text {
     width: 20%; /* Limit width for each side's text */
     text-align: center; /* Center-align text within its block */
 }
+
 .left {
     text-align: left; /* Align the text to the left */
 }
-.right {
-    text-align: right; /* Align the text to the right */
-}
-
 .center {
     text-align: center; /* Align the text to the center */
+}
+.right {
+    text-align: right; /* Align the text to the right */
 }
