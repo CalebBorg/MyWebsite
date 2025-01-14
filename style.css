@@ -28,7 +28,7 @@ img {
 
 .main-text{
     width: 80%;
-    text-align: center;
+    text-align: flex-start;
 }
 
 .left {
@@ -36,7 +36,7 @@ img {
     float: left;
 }
 .center {
-    text-align: center; /* Align the text to the center */
+    text-align: flex-start; /* Align the text to the center */
     margin: 0 auto; 
 }
 .right {
