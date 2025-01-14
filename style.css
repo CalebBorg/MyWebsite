@@ -1,6 +1,10 @@
 body {
     text-align: center; /* Center text horizontally */
     background-color: black;
+    display: flex;
+    justify-content: space-between; /* Push content to the sides */
+    align-items: center; /* Vertically align the text */
+    height: 100vh; /* Full viewport height */
 }
 
 h1 {
@@ -14,4 +18,15 @@ p {
 img {
     max-width: 100%; /* Makes the GIF responsive */
     height: auto; /* Maintains aspect ratio */
+}
+
+.side-text {
+    width: 20%; /* Limit width for each side's text */
+    text-align: center; /* Center-align text within its block */
+}
+.left {
+    text-align: left; /* Align the text to the left */
+}
+.right {
+    text-align: right; /* Align the text to the right */
 }
